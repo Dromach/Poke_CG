@@ -1,7 +1,7 @@
 # Pokédex - Projet CI/CD
 
 🚀 Ce projet de **Pokédex** a été réalisé dans le cadre du cours en CI/CD pour mettre en pratique nos connaissances en front-end, back-end et DevOps. L'objectif est de créer une application Pokedex avec plusieurs fonctionnalités avancées utilisant plusieurs API.
-### Prérequis
+### Prérequis :
 - Node.js
 - Tailwind CSS
 - Vite.js
