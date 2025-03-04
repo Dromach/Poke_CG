@@ -94,6 +94,7 @@ const updatePokedexLayout = (_isGridLayout) => {
 };
 
 updatePokedexLayout(isGridLayout);
+//commit de test
 
 
 export const rippleEffect = (e, color = "#fff") => {
